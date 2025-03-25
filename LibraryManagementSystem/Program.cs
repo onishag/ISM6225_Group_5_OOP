@@ -1,4 +1,4 @@
-﻿namespace OOP_ClassCompetition2
+﻿namespace LibraryManagementSystem
 {
     internal class Program
     {
@@ -32,4 +32,3 @@
         }
     }
 }
-
